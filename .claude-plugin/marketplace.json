@@ -1,0 +1,5 @@
+{
+  "name": "local-mods",
+  "owner": { "name": "majinmarco" },
+  "plugins": [{ "name": "grill-buttons", "source": "./" }]
+}

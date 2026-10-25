@@ -1,0 +1,5 @@
+{
+  "name": "grill-buttons",
+  "version": "0.1.0",
+  "description": "Makes the grilling skill (grill-me, grill-with-docs) ask each round in Claude Code's own question dialog, with buttons, instead of as markdown text."
+}
